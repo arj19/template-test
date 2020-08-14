@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box; 
+    /* any time if we add padding, that padding will strech the page, no horizontal scroll bar */
+}
+
+body{
+    margin: 0;
+    min-height: 100vh;
+    /* vh viweport height, for height of entire window */
+}
